@@ -166,6 +166,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Repository: [IOS_Keyboard_For_Sinhala_Typing](https://github.com/SudharakaA/IOS_Keyboard_For_Sinhala_Typing)
 
 ---
+<img width="1440" height="900" alt="Screenshot 2025-10-03 at 6 26 42 AM" src="https://github.com/user-attachments/assets/1c2764db-5514-47fe-b715-2bc9ce345678" />
+
+
+
 
 **Made with ❤️ for the Sri Lankan community**
 
